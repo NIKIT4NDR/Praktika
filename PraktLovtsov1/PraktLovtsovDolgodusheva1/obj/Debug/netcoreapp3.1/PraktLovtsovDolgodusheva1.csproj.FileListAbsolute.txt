@@ -1,0 +1,11 @@
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.exe
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.deps.json
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.runtimeconfig.json
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.runtimeconfig.dev.json
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.dll
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\bin\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.pdb
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\obj\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.csprojAssemblyReference.cache
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\obj\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.AssemblyInfoInputs.cache
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\obj\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.AssemblyInfo.cs
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\obj\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.dll
+C:\Users\Студент.MOD\source\repos\PraktLovtsovDolgodusheva1\PraktLovtsovDolgodusheva1\obj\Debug\netcoreapp3.1\PraktLovtsovDolgodusheva1.pdb
