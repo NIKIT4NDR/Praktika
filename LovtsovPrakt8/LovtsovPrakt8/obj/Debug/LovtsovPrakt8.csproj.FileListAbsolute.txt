@@ -1,0 +1,7 @@
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\bin\Debug\LovtsovPrakt8.exe.config
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\bin\Debug\LovtsovPrakt8.exe
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\bin\Debug\LovtsovPrakt8.pdb
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\obj\Debug\LovtsovPrakt8.csprojAssemblyReference.cache
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\obj\Debug\LovtsovPrakt8.csproj.CoreCompileInputs.cache
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\obj\Debug\LovtsovPrakt8.exe
+E:\Ловцов Никита\LovtsovPrakt8\LovtsovPrakt8\obj\Debug\LovtsovPrakt8.pdb
